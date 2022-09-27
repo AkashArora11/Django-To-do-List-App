@@ -47,6 +47,5 @@ Created on - 9 May, 2021
 ---
 
 <p dir="auto">
-<a target="_blank" href="/AkashArora11/Django-To-do-List-App/blob/master/To%20Do%20List%20App.png">
 <img src="https://github.com/AkashArora11/Django-To-do-List-App/blob/master/To%20Do%20List%20App.png" alt="To Do List App.png" style="max-width: 100%;"></a>
 </p>
